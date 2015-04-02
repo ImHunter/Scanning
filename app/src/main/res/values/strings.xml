@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scanning</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btntest_caption">Click Me!</string>
+</resources>
